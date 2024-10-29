@@ -1,0 +1,5 @@
+100            Mirko          25.34
+200            Slavko        -25.87
+300            Petra           0.00
+400            Mitra          89.00
+500            Slavka        -56.32
